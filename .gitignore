@@ -1,6 +1,6 @@
 # Python
 __pycache__/
-*.py[cod]
+
 *.pyo
 *.pyd
 *.so
@@ -18,11 +18,10 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 .env
-*.ipynb
 
 # Colab-specific
-sample_data/
-drive/MyDrive/
+#sample_data/
+#drive/MyDrive/
 *.zip
 *.tar
 *.tar.gz
