@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.ipynb_checkpoints
+*.egg-info/
+*.log
+*.tmp
+*.swp
+
+# PyTorch
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+.env
+*.ipynb
+
+# Colab-specific
+sample_data/
+drive/MyDrive/
+*.zip
+*.tar
+*.tar.gz
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Dataset files
+*.csv
+*.tsv
+*.parquet
+*.hdf5
+*.npz
+*.npy
+
+# Checkpoints & results
+#checkpoints/
+#logs/
+#runs/
+#output/
+#results/
+#*.png
+#*.pdf
+
+# CCE / compiled artifacts
+build/
+dist/
+*.egg
+*.onnx
+
+# pip
+#requirements.txt~
+#pip-log.txt
+#pip-delete-this-directory.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db

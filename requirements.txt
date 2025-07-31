@@ -1,0 +1,7 @@
+cut-cross-entropy @ git+https://github.com/apple/ml-cross-entropy.git@b19a424ed30a05b8261cfa84d83b2601a9454c67
+matplotlib==3.10.0
+numpy==2.0.2
+scikit-learn==1.6.1
+seaborn==0.13.2
+torch @ https://download.pytorch.org/whl/cu124/torch-2.6.0%2Bcu124-cp311-cp311-linux_x86_64.whl
+tqdm==4.67.1
